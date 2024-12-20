@@ -95,7 +95,7 @@ def guess(x):
             reset_game()
 
 
-guess(100)
+guess(100)        # 100 is the guess range.
 
 
 def clear_console():

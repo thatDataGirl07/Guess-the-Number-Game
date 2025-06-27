@@ -1,6 +1,7 @@
-This is my first main project with Python. It is a simple game of guessing a number within any specific range you'd like (you can edit this in the code). 
-The player of the game has the option of entering a name they'd like to go by.
-The player is told the number of attempts they have.
-If the user enters a 'string' instead of an 'int', an exception is raised.
-There is also an option to play again or quit.
-If you have any questions or comments regarding the code, please feel free to reach out.
+This repository contains different variations of the classic "Guess the Number" game.
+Currently, it features two different game modes where:
+1. The Player guesses the number the computer is thinking of (classic Guessing Game):
+file name: user_guesses_number.py
+2. The Computer tries to guess the player's secret number:
+   file name: computer_guesses_number.py
+   Feel free to clone and contribute to my repo. 

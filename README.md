@@ -4,4 +4,4 @@ Currently, it features two different game modes where:
 file name: user_guesses_number.py
 2. The Computer tries to guess the player's secret number:
    file name: computer_guesses_number.py
-   Feel free to clone and contribute to my repo. 
+Feel free to clone and contribute to my repo. 
